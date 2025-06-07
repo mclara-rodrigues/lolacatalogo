@@ -1,0 +1,372 @@
+#imagem1 {
+    position: absolute;
+    top: 260px;
+    left: 70px;
+    width: 20%;
+    height: 500px;
+
+
+}
+
+
+#imagem2 {
+    position: absolute;
+    top: 260px;
+    left: 570px;
+    width: 20%;
+    height: 500px;
+
+
+}
+
+
+#imagem3 {
+    position: absolute;
+    top: 260px;
+    left: 1070px;
+    width: 20%;
+    height: 500px;
+
+
+}
+
+
+
+#imagem4 {
+     position: absolute;
+    top: 1010px;
+    left: 70px;
+    width: 20%;
+    height: 500px;
+
+}
+
+
+
+#imagem5 {
+     position: absolute;
+    top: 1010px;
+    left: 570px;
+    width: 20%;
+    height: 500px;
+
+
+}
+
+
+#imagem6 {
+     position: absolute;
+    top: 1010px;
+    left: 1070px;
+    width: 20%;
+    height: 500px;
+
+}
+
+imagem1
+.legenda1-1 {
+    position: absolute;
+    top: 770px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-1 {
+    position: absolute;
+    top: 803px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa1 {
+    position: absolute;
+    top:802px;
+    left:70px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+imagem2
+.legenda1-2 {
+    position: absolute;
+    top: 770px;
+    left: 570px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-2 {
+    position: absolute;
+    top: 803px;
+    left: 570px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa2 {
+    position: absolute;
+    top:802px;
+    left: 570px;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+imagem3
+.legenda1-3 {
+    position: absolute;
+    top: 770px;
+    left: 1070px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-3 {
+    position: absolute;
+    top: 803px;
+    left: 1070px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa3 {
+    position: absolute;
+    top:802px;
+    left:1070px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+
+imagem4
+.legenda1-4 {
+    position: absolute;
+    top: 1520px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-4 {
+    position: absolute;
+    top: 1553px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa4 {
+    position: absolute;
+    top:1551px;
+    left:70px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+imagem5
+.legenda1-5 {
+    position: absolute;
+    top: 1520px;
+    left: 570px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-5 {
+    position: absolute;
+    top: 1553px;
+    left: 570px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa5 {
+    position: absolute;
+    top:1551px;
+    left: 570px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+imagem6
+.legenda1-6 {
+    position: absolute;
+    top: 1520px;
+    left: 1070px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-6 {
+    position: absolute;
+    top: 1553px;
+    left: 1070px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa6 {
+    position: absolute;
+    top: 1551px;
+    left: 1070px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+imagem7
+.legenda1-7 {
+    position: absolute;
+    top: 1551px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-7 {
+    position: absolute;
+    top: 803px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa7 {
+    position: absolute;
+    top:802px;
+    left:70px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+
+imagem8
+.legenda1-8{
+    position: absolute;
+    top: 770px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-8 {
+    position: absolute;
+    top: 803px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.linha-decorativa8 {
+    position: absolute;
+    top:802px;
+    left:70px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
+imagem9
+.legenda1-9 {
+    position: absolute;
+    top: 770px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+
+.legenda2-9 {
+    position: absolute;
+    top: 803px;
+    left: 70px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+
+
+}
+.linha-decorativa9 {
+    position: absolute;
+    top:802px;
+    left:70px ;
+    width: 20%;
+    border: none;
+    border-top: 2px solid white;
+}
+
